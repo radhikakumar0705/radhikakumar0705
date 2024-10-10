@@ -11,4 +11,4 @@
 - I've worked extensively with Python libraries like Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, Keras and several more.
 
 ## Connect with Me
-- [LinkedIn][https://www.linkedin.com/in/radhika-kumar-6895192a8/]
+- Linked-In: [https://www.linkedin.com/in/radhika-kumar-6895192a8/]
