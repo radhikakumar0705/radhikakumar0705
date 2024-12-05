@@ -7,7 +7,7 @@
 - My areas of expertise are mainly Machine Learning and Artificial Intelligence.
 
 ## Skills
-- Programming languages that I'm confortable with include Python, Java, and C. I also am versed in the basics of HTML, CSS and Javascript and working on extending my knowledge in these languages as well.
+- Programming languages that I'm comfortable with include Python, Java, and C. I also am versed in the basics of HTML, CSS and Javascript and working on extending my knowledge in these languages as well.
 - I've worked extensively with Python libraries like Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, Keras and several more.
 
 ## Connect with Me
