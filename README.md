@@ -1,7 +1,6 @@
 # Hey, I'm Radhika Kumar! 
 
 ## About Me
-- I’m currently working on creating a neural netweork model using tensorflow and keras that detects brain cancer using MRI images.
 - I’m currently learning version control and software development.
 - I’m looking for help with frontend and backend development.
 - My areas of expertise are mainly Machine Learning and Artificial Intelligence.
