@@ -1,8 +1,8 @@
-# hi, I'm radhika!
+# hi, I'm radhika ❀
 
-welcome to my GitHub profile! I'm a computer science student, specializing in AI, working through my caffeine induced mania the best as i can. 
+welcome to my GitHub profile! I'm a computer science student, specializing in AI, working through my caffeine induced mania the best as i can ♡
 
-## Technologies & Tools
+## tech i know 𝜗ৎ
 
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express, Python (Django)
@@ -12,7 +12,7 @@ welcome to my GitHub profile! I'm a computer science student, specializing in AI
 - **Data Visualisation**: Matplotlib, Seaborn
 - **Languages**: Python, C, Java
 
-##  Current Projects
+##  current projects 𝜗ৎ
 
 ### [NoteGrid]
 A notes application to jot down all your everyday tasks with a simple UI. It can create, delete, update notes!! Built using MERN stack
@@ -25,10 +25,10 @@ do check out my repositories for more stuff !!
 
 
 
-## i'm currently learning-
+## i'm currently learning 𝜗ৎ
 
 - **Machine Learning & AI**: Delving deeper into natural language processing and large language models.
 
 
-## Connect with Me
+## connect with me 𝜗ৎ
 - Linked-In: [https://www.linkedin.com/in/radhika-kumar-6895192a8/]
