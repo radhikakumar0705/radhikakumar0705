@@ -1,6 +1,6 @@
 # hi, I'm radhika ❀
 
-welcome to my GitHub profile! I'm a computer science student, specializing in AI, working through my caffeine induced mania the best as i can ♡
+welcome to my GitHub profile! I'm a computer science student, specializing in AI ♡
 
 ## tech i know 𝜗ৎ
 
