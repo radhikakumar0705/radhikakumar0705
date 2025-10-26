@@ -28,5 +28,4 @@ do check out my repositories for more stuff !!
 
 
 ## connect with me 𝜗ৎ
-- Linked-In: [https://www.linkedin.com/in/radhika-kumar-6895192a8/]
-- 
+- Linked-In: [https://www.linkedin.com/in/radhika-kumar-6895192a8/] 
