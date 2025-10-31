@@ -17,14 +17,11 @@ welcome to my GitHub profile! I'm a computer science undergrad, specializing in 
 ### [resume-matcher]
 An automated resume matching system that evaluates resumes against job descriptions using semantic embeddings and skill extraction. It combines natural language processing with contextual similarity to rank candidates. A great way to do some quick comparisons and improve your resume! 
 
-### [Bone Fracture Detection]
-
-A machine learning system that classifies bone X-ray images into different fracture types. It uses feature extraction, PCA, and multiple algorithms to provide accurate predictions and assist in diagnostic analysis.
+### [mistrally]
+A personalised AI teaching assistant chatbot built using Flask, React and Ollama for local model hosting. Also uses ChromaDB for semantic memory and MySQL for persistent storage. 
 
 ### [NoteGrid]
 A notes application to jot down all your everyday tasks with a simple UI. It can create, delete, update notes!! Built using MERN stack.
-
-do check out my repositories for more stuff !!
 
 
 ## connect with me 𝜗ৎ
